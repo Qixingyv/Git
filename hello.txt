@@ -2,3 +2,4 @@ Hello Git!
 Hello Git!
 222
 master test
+hot-fix test
